@@ -25,7 +25,7 @@ function generateReadmeContent(files) {
     const fileLinks = files.map(file => {
         const relativePath = path.relative(directoryPath, file).replace(/\\/g, '/');
         let fileUrl = `${baseUrl}${relativePath}`;
-        fileUrl = new URL(fileUrl).toString();
+        fileUrl = new URL(fileUrl).toString().replace('.md', '.html');
         return `- [${relativePath}](${fileUrl})`;
     }).join('\n');
 
