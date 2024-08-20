@@ -29,7 +29,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add README.md
-        git commit -m "Auto-generate README.md"
+        git diff-index --quiet HEAD || git commit -m "Auto-generate README.md"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
