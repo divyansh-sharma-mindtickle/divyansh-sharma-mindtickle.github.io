@@ -5,11 +5,11 @@ This repository contains the following Markdown files:
 ## List of Files
 
 - [2024-08-20.md](https://divyansh-sharma-mindtickle.github.io/2024-08-20.md)
-- [Content Code review ( History ).md](https://divyansh-sharma-mindtickle.github.io/Content Code review ( History ).md)
-- [Content Repos - App Mapping.md](https://divyansh-sharma-mindtickle.github.io/Content Repos - App Mapping.md)
+- [Content Code review ( History ).md](https://divyansh-sharma-mindtickle.github.io/Content%20Code%20review%20(%20History%20).md)
+- [Content Repos - App Mapping.md](https://divyansh-sharma-mindtickle.github.io/Content%20Repos%20-%20App%20Mapping.md)
 - [PSPDFKIT.md](https://divyansh-sharma-mindtickle.github.io/PSPDFKIT.md)
 - [cherry-pick.md](https://divyansh-sharma-mindtickle.github.io/cherry-pick.md)
-- [images available.md](https://divyansh-sharma-mindtickle.github.io/images available.md)
+- [images available.md](https://divyansh-sharma-mindtickle.github.io/images%20available.md)
 
 ## How to Use This Repository
 
