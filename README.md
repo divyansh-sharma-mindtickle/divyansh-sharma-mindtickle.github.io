@@ -9,6 +9,7 @@ This repository contains the following Markdown files:
 - [Content Code review ( History ).md](https://divyansh-sharma-mindtickle.github.io/Content%20Code%20review%20(%20History%20).html)
 - [Content Repos - App Mapping.md](https://divyansh-sharma-mindtickle.github.io/Content%20Repos%20-%20App%20Mapping.html)
 - [PSPDFKIT.md](https://divyansh-sharma-mindtickle.github.io/PSPDFKIT.html)
+- [Sync Details Page Changes.md](https://divyansh-sharma-mindtickle.github.io/Sync%20Details%20Page%20Changes.html)
 - [images available.md](https://divyansh-sharma-mindtickle.github.io/images%20available.html)
 
 ## How to Use This Repository
@@ -21,4 +22,4 @@ Feel free to contribute to the documentation by adding or updating the Markdown 
 
 ---
 
-*Generated on: 8/26/2024*
+*Generated on: 8/29/2024*
