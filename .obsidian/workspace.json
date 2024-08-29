@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "401 Errors.md",
+                "file": "Sync Details Page Changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "401 Errors.md",
+                "file": "Sync Details Page Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "401 Errors.md",
+                "file": "Sync Details Page Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "401 Errors.md"
+                "file": "Sync Details Page Changes.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d7527958b90e3d71",
   "lastOpenFiles": [
+    "content gql config.md",
     "Sync Details Page Changes.md",
     "401 Errors.md",
     "2024-08-20.md",
