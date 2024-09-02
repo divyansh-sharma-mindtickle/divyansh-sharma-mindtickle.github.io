@@ -10,6 +10,7 @@ This repository contains the following Markdown files:
 - [Content Repos - App Mapping.md](https://divyansh-sharma-mindtickle.github.io/Content%20Repos%20-%20App%20Mapping.html)
 - [PSPDFKIT.md](https://divyansh-sharma-mindtickle.github.io/PSPDFKIT.html)
 - [Sync Details Page Changes.md](https://divyansh-sharma-mindtickle.github.io/Sync%20Details%20Page%20Changes.html)
+- [Untitled.md](https://divyansh-sharma-mindtickle.github.io/Untitled.html)
 - [content gql config.md](https://divyansh-sharma-mindtickle.github.io/content%20gql%20config.html)
 - [images available.md](https://divyansh-sharma-mindtickle.github.io/images%20available.html)
 
@@ -23,4 +24,4 @@ Feel free to contribute to the documentation by adding or updating the Markdown 
 
 ---
 
-*Generated on: 8/29/2024*
+*Generated on: 9/2/2024*
