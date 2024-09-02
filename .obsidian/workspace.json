@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e90120c0f6000b6",
+        "id": "5c1a403031491f9a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7527958b90e3d71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0333d5f4dc7f72f3",
+            "id": "167d2950cefd6a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0333d5f4dc7f72f3",
+  "active": "a2e23ded281ff745",
   "lastOpenFiles": [
-    "Untitled.md",
     "README.md",
     "Sync Details Page Changes.md",
+    "Untitled.md",
     "content gql config.md",
     "401 Errors.md",
     "2024-08-20.md",
