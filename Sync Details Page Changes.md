@@ -1,4 +1,3 @@
-
 ## Requirements
 - Update Sync status component + sync status next to title [1 SP]
 - Status filter [3 SP]
@@ -20,9 +19,6 @@
 **Account setting page**
 1. Add status for each sync
 
-
-
-
 # PROGRESS
 
 ## Tasks
@@ -36,3 +32,12 @@
 - [ ] Get context around account page
 - [ ] implement account section changes
 - [ ] end to end test
+
+## Action Items ( *2 Sept* )
+
+1. Folder status PR is not merged yet - Vibhu will merge then have to test
+2. Vibhu will be making Integration GQL changes
+3. I have to Do the required mapping similar to content-gql
+4. Have to complete FE changes on integrations side
+5. verify if changes are required or not
+6. Deploy CC on integration and then setup account setting repo in local
