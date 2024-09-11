@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sync Details Page Changes.md",
+                "file": "Remote Entry caching.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sync Details Page Changes.md",
+                "file": "Remote Entry caching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sync Details Page Changes.md",
+                "file": "Remote Entry caching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sync Details Page Changes.md"
+                "file": "Remote Entry caching.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "2bad61046d68fb90",
   "lastOpenFiles": [
-    "Remote Entry caching.md",
-    "Untitled.md",
-    "Sync Details Page Changes.md",
     "start_proxy.md",
+    "Remote Entry caching.md",
     "README.md",
+    "Sync Details Page Changes.md",
+    "Untitled.md",
     "content gql config.md",
     "401 Errors.md",
     "2024-08-20.md",
