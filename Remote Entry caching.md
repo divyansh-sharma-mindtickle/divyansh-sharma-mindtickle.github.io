@@ -9,17 +9,17 @@ Route: /new/ui/content-center/
 * **Staging:** 5.69
 * **Improvement:** 6.26%
 
-#### Avg. Load time
-* **Prod:** 5.03
-* **Staging:** 4.92
+#### Avg. LCP
+* **Prod:** 5.05
+* **Staging:** 4.93
 * **Improvements:** 2.18%
 
-#### Avg. Load time
+#### P99 Load time
 * **Prod:** 7.44
 * **Staging:** 7.90
 * **Improvements:** -6.18%
 
-#### Avg. Load time
+#### P99 LCP
 * **Prod:** 6.60
 * **Staging:** 6.60
 * **Improvements:** N/A
