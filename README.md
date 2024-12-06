@@ -9,6 +9,8 @@ This repository contains the following Markdown files:
 - [Bulk operations.md](https://divyansh-sharma-mindtickle.github.io/Bulk%20operations.html)
 - [Content Code review ( History ).md](https://divyansh-sharma-mindtickle.github.io/Content%20Code%20review%20(%20History%20).html)
 - [Content Repos - App Mapping.md](https://divyansh-sharma-mindtickle.github.io/Content%20Repos%20-%20App%20Mapping.html)
+- [Error logging.md](https://divyansh-sharma-mindtickle.github.io/Error%20logging.html)
+- [GQL Changes.md](https://divyansh-sharma-mindtickle.github.io/GQL%20Changes.html)
 - [PSPDFKIT.md](https://divyansh-sharma-mindtickle.github.io/PSPDFKIT.html)
 - [Remote Entry caching.md](https://divyansh-sharma-mindtickle.github.io/Remote%20Entry%20caching.html)
 - [Sync Details Page Changes.md](https://divyansh-sharma-mindtickle.github.io/Sync%20Details%20Page%20Changes.html)
@@ -27,4 +29,4 @@ Feel free to contribute to the documentation by adding or updating the Markdown 
 
 ---
 
-*Generated on: 11/25/2024*
+*Generated on: 12/6/2024*
