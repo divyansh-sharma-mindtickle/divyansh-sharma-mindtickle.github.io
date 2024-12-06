@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Entry caching.md",
+                "file": "Bulk operations.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bulk operations"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote Entry caching.md",
+                "file": "GQL Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GQL Changes"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote Entry caching.md",
+                "file": "GQL Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GQL Changes"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote Entry caching.md"
-              }
+                "file": "GQL Changes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GQL Changes"
             }
           }
         ]
@@ -146,13 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bad61046d68fb90",
+  "active": "a2e23ded281ff745",
   "lastOpenFiles": [
-    "Bulk operations.md",
     "Untitled.md",
-    "Remote Entry caching.md",
-    "start_proxy.md",
+    "GQL Changes.md",
+    "Error logging.md",
+    "Content Code review ( History ).md",
     "README.md",
+    "Remote Entry caching.md",
+    "Bulk operations.md",
+    "start_proxy.md",
     "Sync Details Page Changes.md",
     "content gql config.md",
     "401 Errors.md",
@@ -160,7 +179,6 @@
     "PSPDFKIT.md",
     "images available.md",
     "Content Repos - App Mapping.md",
-    "Content Code review ( History ).md",
     "cherry-pick.md",
     "_config.yml",
     "generate-readme.js",
