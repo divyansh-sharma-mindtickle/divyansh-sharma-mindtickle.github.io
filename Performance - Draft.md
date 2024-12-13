@@ -78,13 +78,13 @@
 - **Code Reviews**: Actively reviewed numerous PRs across repositories to uphold quality and consistency.
 	- https://gitlab.com/mindtickle/content-media-ui/-/merge_requests/432
 	- https://gitlab.com/mindtickle/mt-content-ui/-/merge_requests/9697
-	- https://gitlab.com/mindtickle/mt-mailer-ops/-/merge_requests/1461
 	- https://gitlab.com/mindtickle/mt-content-ui/-/merge_requests/9602
+	- https://gitlab.com/mindtickle/content-media-ui/-/merge_requests/383
+	- https://gitlab.com/mindtickle/content-gql-schema/-/merge_requests/3115
+	- https://gitlab.com/mindtickle/mt-mailer-ops/-/merge_requests/1461
 	- https://gitlab.com/mindtickle/mt-content-ui/-/merge_requests/9624
 	- https://gitlab.com/mindtickle/content-center-service/-/merge_requests/838
 	- https://gitlab.com/mindtickle/mt-content-ui/-/merge_requests/9597
 	- https://gitlab.com/mindtickle/mt-content-ui/-/merge_requests/9613
-	- https://gitlab.com/mindtickle/content-media-ui/-/merge_requests/383
-	- https://gitlab.com/mindtickle/content-gql-schema/-/merge_requests/3115
 
 - **System Insights**: Actively contributes to monthly health reviews by analyzing and logging SNAG errors along with valid reasons for their occurrence. Additionally, identifies and creates fix tickets to address recurring issues and proactively takes ownership of resolving these tickets. This initiative ensures better system stability, minimizes downtime, and enhances overall system reliability.
