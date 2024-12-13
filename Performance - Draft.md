@@ -47,17 +47,17 @@
 
 - **Complex Integrations**: The Partial Sync Status project required handling multiple dependencies and repositories. I proactively addressed integration challenges by ensuring clear communication and detailed planning across teams.
 
-- **Production Debugging**: Debugging orphan folder handling and unauthorized GraphQL errors involved tracing issues across multiple layers of the stack. These experiences enhanced my debugging skills and deepened my understanding of Mindtickle’s architecture.
+- **Production Debugging**: Debugging orphan folder handling and unauthorized GraphQL errors and Snag errors involved tracing issues across multiple layers of the stack. These experiences enhanced my debugging skills and deepened my understanding of Mindtickle’s architecture.
 
 ---
 
 ### 4. **Strengths & Impact**
 
-- **Ownership & Accountability**: Demonstrated the ability to take full ownership of projects like Partial Sync Status, delivering high-quality results despite ambiguous requirements and tight timelines.
+- **Ownership & Accountability**: Demonstrated the ability to take full Frontend ownership of projects like Partial Sync Status, delivering high-quality results despite ambiguous requirements and tight timelines.
 
 - **Technical Expertise**: Leveraged strong debugging skills to resolve critical production issues, minimizing their impact on end users and stakeholders.
 
-- **Collaboration & Mentorship**: Regularly participated in code reviews, sharing constructive feedback to maintain high coding standards
+- **Collaboration & Mentorship**: Regularly participated in code reviews, sharing feedback to maintain high coding standards
 
 ---
 
@@ -68,6 +68,8 @@
 - **Advanced GraphQL Skills**: I plan to deepen my knowledge of complex GraphQL schemas to handle future challenges more efficiently.
 
 - **Documentation:** I can focus on improving the documentation of my implementations to ensure ease of understanding for other team members and for future reference.
+
+- **Leadership Development**: I recognize the need to develop my leadership skills, particularly in influencing and guiding cross-functional teams. This includes actively participating in broader strategic planning discussions and fostering team collaboration.
 
 ---
 
