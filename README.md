@@ -12,9 +12,11 @@ This repository contains the following Markdown files:
 - [Error logging.md](https://divyansh-sharma-mindtickle.github.io/Error%20logging.html)
 - [GQL Changes.md](https://divyansh-sharma-mindtickle.github.io/GQL%20Changes.html)
 - [PSPDFKIT.md](https://divyansh-sharma-mindtickle.github.io/PSPDFKIT.html)
+- [Performance - Draft.md](https://divyansh-sharma-mindtickle.github.io/Performance%20-%20Draft.html)
 - [Remote Entry caching.md](https://divyansh-sharma-mindtickle.github.io/Remote%20Entry%20caching.html)
 - [Sync Details Page Changes.md](https://divyansh-sharma-mindtickle.github.io/Sync%20Details%20Page%20Changes.html)
 - [Untitled.md](https://divyansh-sharma-mindtickle.github.io/Untitled.html)
+- [WORK - Review.md](https://divyansh-sharma-mindtickle.github.io/WORK%20-%20Review.html)
 - [content gql config.md](https://divyansh-sharma-mindtickle.github.io/content%20gql%20config.html)
 - [images available.md](https://divyansh-sharma-mindtickle.github.io/images%20available.html)
 - [start_proxy.md](https://divyansh-sharma-mindtickle.github.io/start_proxy.html)
@@ -29,4 +31,4 @@ Feel free to contribute to the documentation by adding or updating the Markdown 
 
 ---
 
-*Generated on: 12/6/2024*
+*Generated on: 12/13/2024*
