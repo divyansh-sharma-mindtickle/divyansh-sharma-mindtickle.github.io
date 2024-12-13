@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6748e84763f9303",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Performance - Draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Performance - Draft"
-            }
-          },
-          {
             "id": "8c99df28c1d24041",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "WORK - Review"
             }
+          },
+          {
+            "id": "4947fc11222b5899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Performance - Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Performance - Draft"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,25 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6748e84763f9303",
+  "active": "4947fc11222b5899",
   "lastOpenFiles": [
+    "Untitled.md",
     "WORK - Review.md",
     "Performance - Draft.md",
-    "Content Code review ( History ).md",
-    "Bulk operations.md",
-    "Untitled.md",
-    "GQL Changes.md",
-    "Error logging.md",
-    "README.md",
-    "Remote Entry caching.md",
-    "start_proxy.md",
     "Sync Details Page Changes.md",
-    "content gql config.md",
-    "401 Errors.md",
-    "2024-08-20.md",
+    "start_proxy.md",
+    "Remote Entry caching.md",
+    "README.md",
     "PSPDFKIT.md",
     "images available.md",
+    "GQL Changes.md",
+    "Error logging.md",
+    "content gql config.md",
     "Content Repos - App Mapping.md",
+    "Content Code review ( History ).md",
+    "Bulk operations.md",
+    "2024-08-20.md",
+    "401 Errors.md",
     "cherry-pick.md",
     "_config.yml",
     "generate-readme.js",
