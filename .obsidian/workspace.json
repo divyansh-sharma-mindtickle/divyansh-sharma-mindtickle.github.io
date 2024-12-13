@@ -35,8 +35,7 @@
               "title": "Performance - Draft"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,11 +176,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4947fc11222b5899",
+  "active": "8c99df28c1d24041",
   "lastOpenFiles": [
+    "Performance - Draft.md",
     "Untitled.md",
     "WORK - Review.md",
-    "Performance - Draft.md",
     "Sync Details Page Changes.md",
     "start_proxy.md",
     "Remote Entry caching.md",

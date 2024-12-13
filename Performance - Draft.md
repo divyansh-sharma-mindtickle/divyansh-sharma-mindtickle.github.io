@@ -43,7 +43,7 @@
 
 ### 3. **Challenges Overcome**
 
-- **Compatibility Issues**: While working on the PS-PDF migration, I faced challenges related to node version compatibility. By thoroughly analyzing the problem and testing potential solutions, I provided a comprehensive report for future action.
+- **Different Coding Practices in Codebases:** Working across multiple repositories such as `mt-content-ui`, `integrations-ui`, `integration-gql` and `content-gql-schema` exposed me to varying coding standards and practices. Adapting to these differences while ensuring consistent implementation and adhering to best practices was a significant challenge. I overcame this by proactively understanding the existing codebases and collaborating with other team members.
 
 - **Complex Integrations**: The Partial Sync Status project required handling multiple dependencies and repositories. I proactively addressed integration challenges by ensuring clear communication and detailed planning across teams.
 
