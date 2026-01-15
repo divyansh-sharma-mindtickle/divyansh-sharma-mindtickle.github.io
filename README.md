@@ -19,6 +19,7 @@ This repository contains the following Markdown files:
 - [WORK - Review.md](https://divyansh-sharma-mindtickle.github.io/WORK%20-%20Review.html)
 - [content gql config.md](https://divyansh-sharma-mindtickle.github.io/content%20gql%20config.html)
 - [images available.md](https://divyansh-sharma-mindtickle.github.io/images%20available.html)
+- [pnc-schema.md](https://divyansh-sharma-mindtickle.github.io/pnc-schema.html)
 - [start_proxy.md](https://divyansh-sharma-mindtickle.github.io/start_proxy.html)
 
 ## How to Use This Repository
